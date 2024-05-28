@@ -1,2 +1,3 @@
 git pull is pulling data from a public or private repository.
 git commit is saving changes to your branch.
+git push is pushing the data from a local repo to a public repo 
