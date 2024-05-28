@@ -1,1 +1,2 @@
 git pull is pulling data from a public or private repository.
+git commit is saving changes to your branch.
